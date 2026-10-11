@@ -61,9 +61,7 @@ into two primary states:
   - Axios for asynchronous HTTP communication
   - Pure CSS Design System (Responsive, Modern Clinical Dashboard)
 
-================================================================================
                             SETUP & RUN GUIDE
-================================================================================
 
 PREREQUISITES:
   * Java JDK 17 or higher installed (`java -version`)
@@ -174,4 +172,4 @@ STEP 4: VERIFICATION & TESTING WORKFLOW
 5. Click "Generate Final Invoice & Settle Discharge":
    - The total bill settles.
    - The patient is removed from "Active In-Patients" and moved to "Discharged Records".
-================================================================================
+
